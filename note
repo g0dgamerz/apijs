@@ -1,0 +1,32 @@
+http request
+
+
+post   C 
+get    R 
+put    U
+detete D
+
+
+https://www.google.com/search?q=http+request&oq=http+request&aqs=chrome..69i57j0l5.8566j0j8&sourceid=chrome&ie=UTF-8
+===============================================
+   Get           |       Post
+google search    |  Facebook login
+                 |
+                 |
+                 |
+                 |
+                 |
+
+
+CSS heirarchy
+
+
+--level
+
+1.inline CSS
+2.id
+3.class
+4.*
+
+POST request API
+
